@@ -1,0 +1,17 @@
+{
+    "plugin": {	
+        "name":"reports",
+		"settings":{
+			"addToPermissions" : false,
+			"addToGrants" : false,
+			"addToModules" : true
+		},
+        "files": {
+            "controllers": ["/controllers/*"],
+            "models": ["/models/*"],
+			"views": ["/views/reports/*"],
+            "language": ["/language/*"],
+            "js":[]
+        }  
+    }
+}

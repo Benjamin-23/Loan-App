@@ -1,0 +1,1 @@
+DROP TABLE `c19_reports`;
